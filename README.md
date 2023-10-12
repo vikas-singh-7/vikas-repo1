@@ -1,4 +1,6 @@
 # vikas-repo2
-this is my first repo
+
+<h2>this is my first repo</h2>
+
 <br>
-<h2>hey i am learning guthub :)</h2>
+<h3>Author-Vikas Rajput</h3>
